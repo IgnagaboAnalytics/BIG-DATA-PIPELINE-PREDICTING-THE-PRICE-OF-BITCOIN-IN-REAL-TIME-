@@ -1,0 +1,2 @@
+# BIG-DATA-PIPELINE-PREDICTING-THE-PRICE-OF-BITCOIN-IN-REAL-TIME-
+In this repository you can fin the different code sources; by doing analytics in real time with the used of Kafka ( distributed event store and stream-processing platform) from the data source (Open API from Binance JSON File) to the processing layer using Apache Spark and experimenting with InfluxDB as the Serving layer and building on top of that a ML model (Forecasting on Scale) known as Prophet thought the used of different 'OPEN  SOURCE TECHNOLOGIES' 
